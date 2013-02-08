@@ -18,5 +18,3 @@ us prepared to back down.
 About a month ago I decided that it was foolish to let the words I had written rot on my hard drive and so I did the only thing I knew how to do: overreact. So I cut the original nine-hundred words of my bio down to fourteen words and resubmitted it to Daniel. Those are the words you see in the post now.
 
 For your pleasure, here is the original bio in its full, unabridged glory.
-
-<hr />
