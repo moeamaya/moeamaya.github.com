@@ -71,6 +71,12 @@ ul.posts {
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
   }
+  
+  ul.posts h3{
+    font-size: 200%;
+    margin-bottom: -4px;
+  }
+  
 
 /*****************************************************************************/
 /*
@@ -81,7 +87,7 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 42em;
+  width: 600px;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
@@ -93,7 +99,7 @@ ul.posts {
 }
 
   .site .title a {
-    color: #a00;
+    color: #333;
     text-decoration: none;
   }
 
@@ -105,6 +111,9 @@ ul.posts {
     color: #aaa;
     text-decoration: none;
     margin-left: 1em;
+    font-weight: 600;
+    font-size: 70%;
+    letter-spacing: 1px;
   }
 
   .site .title a.extra:hover {
