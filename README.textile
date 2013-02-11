@@ -1,9 +1,9 @@
-h1. craft and critique blog
+h1. Craft & Critique Blog
 
-It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site whenever I push this repository to GitHub.
+I forked "Tom Preston-Werner's blog":https://github.com/mojombo/mojombo.github.com and added paginate. With Jekyll, it's incredibly easy to format and design your blog as it's essentially a static site. If you're tired of the bloat and slowness of Wordpress, tumblr, etc., try jekyll. I can't speak of it highly enough.
 
-I forked Tom Preston-Werner's base blog and added paginate.
+Details: The site is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site whenever I push this repository to GitHub.
 
 h1. License
 
-All directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/mojombo/jekyll would be appreciated, but is not required.
+All directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
