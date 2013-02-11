@@ -19,7 +19,7 @@ title: Jekyll and Github
 
 <div class="post-content">
 <div class="rating"><span>CRAFT</span>8 / 10</div>
-Recommended to me by [Dixon](http://www.amdixon.com) Poured into a pint tumbler glass. Small head and clear with a honey hue. The aroma hints at citrus with a wheat baseline. Upon taste, the grapefruit comes forward and one can feel the hops emerge. Tastes similar to an IPA. Not my favorite beer, but also not bad for a Dixon recommendation.
+Recommended to me by <a href="www.amdixon.com">Dixon</a>. Poured into a pint tumbler glass. Small head and clear with a honey hue. The aroma hints at citrus with a wheat baseline. Upon taste, the grapefruit comes forward and one can feel the hops emerge. Tastes similar to an IPA. Not my favorite beer, but also not bad for a Dixon recommendation.
 
 
 <div class="rating"><span>CRITIQUE</span>9 / 10</div>
