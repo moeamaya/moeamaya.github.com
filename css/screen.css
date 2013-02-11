@@ -38,7 +38,7 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #555;
 }
 
 a:hover {
@@ -46,7 +46,7 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: #555;
 }
 
 table {
@@ -126,6 +126,7 @@ table {
 .post-content{
   display: block;
   margin-top: 30px;
+  color: #777;
 }
 .rating{
   color: #a7c5ab;
@@ -140,7 +141,6 @@ table {
   width: 90px;
   color: #999;
   text-transform: uppercase;
-  
 }
 
 ul.posts {
@@ -149,7 +149,7 @@ ul.posts {
 }
 
   ul.posts li {
-    line-height: 1.75em;
+    line-height: 1.7em;
   }
   
   ul.posts h3{

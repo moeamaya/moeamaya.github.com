@@ -19,7 +19,7 @@ title: Jekyll and Github
 
 <div class="post-content">
 <div class="rating"><span>CRAFT</span>8 / 10</div>
-Bready malt tastes at the outset turn sweet and caramel-like, then grainy. Toasted malt tastes of bread crust creep in toward the end of the malt onslaught. Hop tastes of grass and hay provide balance. Quick flare of earthy/spicy hop tastes and a flash of citrus elaborate. Nutty earthiness now seems like more of a malt nuance than a yeast contribution. Finishes with tastes of grain, bread crust, and grass.
+Recommended to me by [Dixon]("http://www.amdixon.com") Poured into a pint tumbler glass. Small head and clear with a honey hue. The aroma hints at citrus with a wheat baseline. Upon taste, the grapefruit comes forward and one can feel the hops emerge. Tastes similar to an IPA. Not my favorite beer, but also not bad for a Dixon recommendation.
 
 
 <div class="rating"><span>CRITIQUE</span>9 / 10</div>
