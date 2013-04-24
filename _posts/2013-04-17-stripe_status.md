@@ -7,7 +7,7 @@ title: Stripe status
 <img src="images/stripe.jpg">
 
 <div class="post-content">
-Design re-implementation for Stripe's API status page.
+Design re-implementation for <a href="https://status.stripe.com/">Stripe's API status page</a>.
 
     <div class="rating">01 <p>Current Status</p></div>
      I believe the clarity of the current implementation makes sense. If a problem does arise it will be plainly stated as the first element on the page.
