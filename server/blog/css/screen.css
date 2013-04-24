@@ -142,11 +142,6 @@ table {
   color: #999;
   text-transform: uppercase;
 }
-.rating p{
-  display: inline;
-  margin-left: 10px;
-  text-transform: uppercase;  
-}
 
 ul.posts {
   list-style-type: none;
